@@ -14,13 +14,13 @@
 
 ## 软件架构
 
-1. :new: software-architecture-patterns http://www.oreilly.com/programming/free/software-architecture-patterns.csp http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf 
+1. :new: software-architecture-patterns [介绍](http://www.oreilly.com/programming/free/software-architecture-patterns.csp) [PDF](http://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf) 
 
 
 ## Linux
 
-1. :new: 快乐的 Linux 命令行 http://billie66.github.io/TLCL/index.html 
-1. :new: 快乐的 Linux 命令行 http://billie66.github.io/TLCL/index.html 
+1. :new: 快乐的 Linux 命令行 [介绍](http://linuxcommand.org/) [中文](http://billie66.github.io/TLCL/index.html)
+1. :new: 快乐的 Linux 命令行 [介绍](http://linuxcommand.org/) [中文](http://billie66.github.io/TLCL/index.html)
 
 
 ## 二进制和运行时
